@@ -2,6 +2,10 @@
 
 A custom HTML5 video player with HLS (HTTP Live Streaming) support, featuring a modern dark UI with custom controls.
 
+## Documentation
+
+📖 **[Video API Guide](VIDEO_API_GUIDE.md)** - Learn how video controls work with vanilla JavaScript and HLS.js
+
 ## Quick Start
 
 ### Running the Player
